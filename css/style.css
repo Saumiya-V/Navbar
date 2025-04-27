@@ -171,6 +171,7 @@ span {
   margin-left: 55px;
   position: sticky;
   top: 70px;
+  bottom:10px;
   z-index: 5;
 }
 
