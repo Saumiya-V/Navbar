@@ -181,9 +181,6 @@ span {
   display: flex;
   flex-wrap: wrap;
   gap: 65px;
-  position: sticky;
-  top: 85px;
-  z-index: 3;
 }
 
 /* Individual Restaurant Cards */
