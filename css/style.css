@@ -171,8 +171,7 @@ span {
   margin-left: 55px;
   position: sticky;
   top: 70px;
-  bottom:10px;
-  z-index: 5;
+  z-index: 3;
 }
 
 /* Top Restaurants Section */
@@ -182,6 +181,9 @@ span {
   display: flex;
   flex-wrap: wrap;
   gap: 65px;
+  position: sticky;
+  top: 85px;
+  z-index: 3;
 }
 
 /* Individual Restaurant Cards */
